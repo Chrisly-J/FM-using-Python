@@ -50,6 +50,7 @@ plt.plot(t,s)
 plt.tight_layout()
 ```
 Output Waveform
+
 <img width="803" height="595" alt="Screenshot 2025-11-07 212310" src="https://github.com/user-attachments/assets/691bee8b-d0e8-4d5f-8bb7-7a4e5f183499" />
 
 Tabular Column
